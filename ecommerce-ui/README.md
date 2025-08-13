@@ -1,46 +1,46 @@
-# \# E-commerce UI Testing – Demoblaze
+\# E-commerce UI Testing – Demoblaze
 
-# 
 
-# This project covers \*\*manual functional and UI testing\*\* of the \[Demoblaze](https://www.demoblaze.com/) e-commerce demo site.  
 
-# It demonstrates skills in writing test documentation, reporting defects, and using industry-standard QA tools.
+This project covers \*\*manual functional and UI testing\*\* of the \[Demoblaze](https://www.demoblaze.com/) e-commerce demo site.
 
-# 
+It demonstrates skills in writing test documentation, reporting defects, and using industry-standard QA tools.
 
-# \## 📌 Scope
 
-# \- Functional testing of product listing, search, cart, and checkout.
 
-# \- UI validation for layout, responsiveness, and user experience.
+\## 📌 Scope
 
-# \- Basic performance and network checks with Chrome DevTools.
+\- Functional testing of product listing, search, cart, and checkout.
 
-# 
+\- UI validation for layout, responsiveness, and user experience.
 
-# \## 🛠 Tools Used
+\- Basic performance and network checks with Chrome DevTools.
 
-# \- \*\*Jira\*\* – for bug reporting and tracking
 
-# \- \*\*TestRail / Excel\*\* – for test case management
 
-# \- \*\*Chrome DevTools\*\* – for console and network analysis
+\## 🛠 Tools Used
 
-# 
+\- \*\*Jira\*\* – for bug reporting and tracking
 
-# \## 📂 Deliverables
+\- \*\*TestRail / Excel\*\* – for test case management
 
-# \- Test Plan
+\- \*\*Chrome DevTools\*\* – for console and network analysis
 
-# \- Test Cases
 
-# \- Bug Reports (including Jira exports)
 
-# \- Execution Screenshots
+\## 📂 Deliverables
 
-# \- DevTools HAR and Console logs
+\- Test Plan
 
-# 
+\- Test Cases
 
-# ---
+\- Bug Reports (including Jira exports)
+
+\- Execution Screenshots
+
+\- DevTools HAR and Console logs
+
+
+
+---
 
