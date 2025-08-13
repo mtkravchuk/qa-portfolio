@@ -1,102 +1,102 @@
-# \# QA Portfolio – Mykhailo Kravchuk
+\# QA Portfolio – Mykhailo Kravchuk
 
-# 
 
-# Welcome to my QA Portfolio!  
 
-# Here you will find my software testing projects that demonstrate my practical skills in \*\*manual testing, API testing, cross-browser compatibility, and basic automation\*\*.  
+Welcome to my QA Portfolio!
 
-# Each project includes test documentation, bug reports, execution evidence, and related artifacts created with industry-standard tools.
+Here you will find my software testing projects that demonstrate my practical skills in \*\*manual testing, API testing, cross-browser compatibility, and basic automation\*\*.
 
-# 
+Each project includes test documentation, bug reports, execution evidence, and related artifacts created with industry-standard tools.
 
-# ---
 
-# 
 
-# \## 📂 Projects Overview
+---
 
-# 
 
-# \### 1. E-commerce UI Testing – Demoblaze
 
-# \- \*\*Scope:\*\* Functional \& UI testing of product search, cart, and checkout
+\## 📂 Projects Overview
 
-# \- \*\*Tools:\*\* Jira, Chrome DevTools, TestRail/Excel
 
-# \- \*\*Deliverables:\*\* Test Plan, Test Cases, Bug Reports, Screenshots
 
-# \- \[Project folder](./ecommerce-ui)
+\### 1. E-commerce UI Testing – Demoblaze
 
-# 
+\- \*\*Scope:\*\* Functional \& UI testing of product search, cart, and checkout
 
-# \### 2. API Testing – Bookstore REST API
+\- \*\*Tools:\*\* Jira, Chrome DevTools, TestRail/Excel
 
-# \- \*\*Scope:\*\* CRUD operations verification
+\- \*\*Deliverables:\*\* Test Plan, Test Cases, Bug Reports, Screenshots
 
-# \- \*\*Tools:\*\* Postman, JSON Validator
+\- \[Project folder](./ecommerce-ui)
 
-# \- \*\*Deliverables:\*\* Postman collection, Test Scripts, Execution Report
 
-# \- \[Project folder](./bookstore-api)
 
-# 
+\### 2. API Testing – Bookstore REST API
 
-# \### 3. Cross-browser Testing
+\- \*\*Scope:\*\* CRUD operations verification
 
-# \- \*\*Scope:\*\* Compatibility and responsiveness testing
+\- \*\*Tools:\*\* Postman, JSON Validator
 
-# \- \*\*Tools:\*\* Chrome DevTools, BrowserStack
+\- \*\*Deliverables:\*\* Postman collection, Test Scripts, Execution Report
 
-# \- \*\*Deliverables:\*\* Test Plan, Screenshots, Bug Reports
+\- \[Project folder](./bookstore-api)
 
-# \- \[Project folder](./cross-browser)
 
-# 
 
-# \### 4. Automation Demo – Selenium \& MySQL
+\### 3. Cross-browser Testing
 
-# \- \*\*Scope:\*\* Automated UI tests + database validation
+\- \*\*Scope:\*\* Compatibility and responsiveness testing
 
-# \- \*\*Tools:\*\* Selenium WebDriver, MySQL
+\- \*\*Tools:\*\* Chrome DevTools, BrowserStack
 
-# \- \*\*Deliverables:\*\* Automation Scripts, Query Results, Execution Report
+\- \*\*Deliverables:\*\* Test Plan, Screenshots, Bug Reports
 
-# \- \[Project folder](./automation-demo)
+\- \[Project folder](./cross-browser)
 
-# 
 
-# ---
 
-# 
+\### 4. Automation Demo – Selenium \& MySQL
 
-# \## 🛠 Tools \& Technologies
+\- \*\*Scope:\*\* Automated UI tests + database validation
 
-# \- \*\*Testing Types:\*\* Functional, Regression, Smoke, Negative, Boundary, API Testing
+\- \*\*Tools:\*\* Selenium WebDriver, MySQL
 
-# \- \*\*Tools:\*\* Jira, TestRail, Postman, Selenium, Chrome DevTools, MySQL
+\- \*\*Deliverables:\*\* Automation Scripts, Query Results, Execution Report
 
-# \- \*\*Languages:\*\* HTML, CSS, JavaScript
+\- \[Project folder](./automation-demo)
 
-# \- \*\*Methodologies:\*\* Agile (Scrum), Waterfall, SDLC/STLC
 
-# 
 
-# ---
+---
 
-# 
 
-# \## 📬 Contact
 
-# \*\*Mykhailo Kravchuk\*\*  
+\## 🛠 Tools \& Technologies
 
-# 📍 Coventry, UK  
+\- \*\*Testing Types:\*\* Functional, Regression, Smoke, Negative, Boundary, API Testing
 
-# ✉️ \[mtkravchuk@gmail.com](mailto:mtkravchuk@gmail.com)  
+\- \*\*Tools:\*\* Jira, TestRail, Postman, Selenium, Chrome DevTools, MySQL
 
-# 🔗 \[LinkedIn](https://linkedin.com/in/mykhailo-kravchuk-ab344a241)
+\- \*\*Languages:\*\* HTML, CSS, JavaScript
 
-# 
+\- \*\*Methodologies:\*\* Agile (Scrum), Waterfall, SDLC/STLC
 
-# ---
+
+
+---
+
+
+
+\## 📬 Contact
+
+\*\*Mykhailo Kravchuk\*\*
+
+📍 Coventry, UK
+
+✉️ \[mtkravchuk@gmail.com](mailto:mtkravchuk@gmail.com)
+
+🔗 \[LinkedIn](https://linkedin.com/in/mykhailo-kravchuk-ab344a241)
+
+
+
+---
 
