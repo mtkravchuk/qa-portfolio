@@ -32,7 +32,7 @@
 
 \*\*Steps to Reproduce:\*\*
 
-1\. Navigate to \[https://www.demoblaze.com/](https://www.demoblaze.com/)  
+1\. Navigate to https://www.demoblaze.com/ 
 
 2\. Scroll to "Samsung galaxy s6" in the product list  
 
