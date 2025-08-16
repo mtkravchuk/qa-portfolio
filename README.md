@@ -84,6 +84,14 @@ Each project includes test documentation, bug reports, execution evidence, and r
 
 ---
 
+### 🐞 Jira Bug Reports
+
+Examples of bug reports created in Jira with attached evidence.  
+
+See screenshots in [jira-screenshots](./ecommerce-ui/bug-reports/jira-screenshots).
+
+
+---
 
 
 \## 📬 Contact
